@@ -1,0 +1,13 @@
+.links {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.links a {
+  color: crimson;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 10px;
+}
